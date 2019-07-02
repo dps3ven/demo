@@ -1,0 +1,6 @@
+C:\csexercises\completecsharptutorial\pyramid\pyramid\bin\Debug\pyramid.exe.config
+C:\csexercises\completecsharptutorial\pyramid\pyramid\bin\Debug\pyramid.exe
+C:\csexercises\completecsharptutorial\pyramid\pyramid\bin\Debug\pyramid.pdb
+C:\csexercises\completecsharptutorial\pyramid\pyramid\obj\Debug\pyramid.csprojResolveAssemblyReference.cache
+C:\csexercises\completecsharptutorial\pyramid\pyramid\obj\Debug\pyramid.exe
+C:\csexercises\completecsharptutorial\pyramid\pyramid\obj\Debug\pyramid.pdb
